@@ -1,0 +1,16 @@
+torch>=1.13.0
+torchvision>=0.14.0
+pytorch-lightning>=2.0.0
+opencv-python
+Pillow
+numpy
+pandas
+seaborn
+albumentations>=1.0.0
+matplotlib
+tqdm
+monai>=1.3.0
+scikit-learn
+torchmetrics>=0.11.0
+transformers>=4.30.0
+ipython
